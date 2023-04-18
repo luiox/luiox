@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Luiox, a simple coder.
+
 <!--
 **luiox/luiox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

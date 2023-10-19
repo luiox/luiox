@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Luiox, a simple coder.
+I am Luiox, a college student from China.
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=luiox&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/luiox/github-readme-stats)

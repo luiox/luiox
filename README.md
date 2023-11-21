@@ -1,11 +1,12 @@
 ## Hi there, About Me👋
 
-I am Luiox, a college student from China, majoring in electronics. I am passionate about learning and exploring the field of electronics, with a particular interest in computer science and embedded operating systems. In addition to my studies, I enjoy working on practical projects and applying my knowledge and skills.
+I am Luiox, a college student from China, majoring in electronics. 
+
+
 
 ### Skills and Interests
 
-- Proficient in <a href="https://cppreference.com/"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="20px"> </a><a href="https://www.python.org/"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="20px"></a><a href="https://ocaml.org/"> <img src="https://raw.githubusercontent.com/ocaml/ocaml-logo/master/Colour/PNG/colour-icon.png" height="20px"> </a>
-
+- Proficient in ![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png =20x) C++ and ![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png =20x) Python
 - Interested in singlechip and embedded operating systems.
 
 

@@ -6,7 +6,7 @@ I am Luiox, a college student from China, majoring in electronics.
 
 ### Skills and Interests
 
-- Proficient in ![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png =20x) C++ and ![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png =20x) Python
+- Familiar with ![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png =20x) C++ and ![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png =20x) Python
 - Interested in singlechip and embedded operating systems.
 
 

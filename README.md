@@ -10,7 +10,7 @@ I am Luiox, a college student from China, majoring in electronics.
 - Interested in single-chip and embedded operating systems.
 - I have developed a small yet functional library for embedded systems. To facilitate easy access for my friends, I have hosted it at the following address: [https://gitee.com/Canrad/mylib](https://gitee.com/Canrad/mylib).
 
-
+<!--
 
 <div align="center">
 
@@ -18,7 +18,7 @@ I am Luiox, a college student from China, majoring in electronics.
 
 </div>
 
-
+-->
 
 <!--
 

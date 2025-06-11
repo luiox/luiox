@@ -2,6 +2,8 @@
 
 I am Luiox, a college student from China, majoring in electronics. 
 
+I like sweeping the hardware floor and catching bytecode mice in my spare time.
+
 
 
 ### Skills and Interests

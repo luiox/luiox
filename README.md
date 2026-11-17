@@ -1,3 +1,8 @@
+Can you tell me where you're from?
+
+I think we should stop and rest for a while now.
+
+<!--
 ## Hi there, About Me👋
 
 I am Luiox, a college student from China, majoring in electronics. 
@@ -11,6 +16,8 @@ I like sweeping the hardware floor and catching bytecode mice in my spare time.
 - I am familiar with C, Python, OCaml.
 - Interested in single-chip and embedded operating systems.
 - I have developed a small yet functional library for embedded systems. To facilitate easy access for my friends, I have hosted it at the following address: [https://gitee.com/Canrad/mylib](https://gitee.com/Canrad/mylib).
+
+-->
 
 <!--
 
